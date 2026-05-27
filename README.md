@@ -11,10 +11,9 @@
 
 ### 📊 GitHub Activity Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimish-data&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish-data&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="300" />
-</p>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=nimish-data&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=nimish-data&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
